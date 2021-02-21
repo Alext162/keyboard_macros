@@ -1,0 +1,17 @@
+G1 = (112) = (ctr + alt + shft + r) = record last 20 mins geforce experience
+G2 = (113) = (ctr + alt + k) = keypass
+g3 = (114) = (ctr + SHIFT + ESC) = TASK MANAGER
+g4 = (115) = (ctr + alt + F11) = SOUND SWITCH
+r = (82) = (WINDOWS KEY + SHFT + r) = SNIPPING TOOL
+SPACE = (32) = (ctr + alt + shft + M) = mute discord
+B = (66) = (ctr + alt + shft + D) = DEAFEN DISCORD
+q = (81) = (ctr + alt + shft + q) = (ahk keep window ontop)
+2 = (50) = (ctr + alt + LEFT) = (PREV TRACK)
+3 = (51) = (ctr + alt + DOWN)= (PAUSE TRACK)
+4 = (52) = (ctr + alt + RIGHT) = (NEXT TRACK)
+5 = (53) = (ctr + alt + SHIFT + LEFT) = (VOL DOWN)
+6 = (54) = (ctr + alt + SHIFT + DOWN) = (VOL UP)
+6 = (84) = (ctr + alt + SHIFT + TIGHT) = (MUTE)
+S = (83) = (ctr + alt + SHIFT + W) = (stack overflow SEARCH)
+x = (88) = (alt + PGUP) = (bright +)
+z = (90) = (alt + PGDN) = (bright -)
