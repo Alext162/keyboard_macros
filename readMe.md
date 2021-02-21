@@ -1,6 +1,6 @@
 #About
 
-These are my personal files I use to run and use a second keyboard as a macro device. This repository is not a guide on how to set this up, however, I might possibly do this depending on if it gets requested.
+These are my personal files I use to run and use a second keyboard as a macro device. This repository is not a guide on how to set this up, however, I might do this at a later date.
 
 To give some brief info on what the files and applications do:
     Registry.txt = This simply keeps a registry of what macros I have, what they do, and what keys they are bound to.
