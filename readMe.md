@@ -14,7 +14,7 @@ AutoHotKey (AHK) = This can be used to write more complex scripts for macros. Fo
 
 LuaMacros = This is the main app that runs the scripts used to create the macros.
 
-Program = This folder contains a script that initiates all of the other scrips so It can be used automatically on startup. To use this, you would need to create a start up         event in event viewer that runs it.
+Program = This folder contains a script that initiates all of the other scrips so It can be used automatically on startup. To use this, you would need to create a start up         event in task scheduler that runs it.
     
 If you would like to know more, please google "Second keyboard macro". There will be many usefull guides on how to set this up yourself. Taran from LinusTechTips has a usefull repository too: https://github.com/TaranVH/2nd-keyboard
     
