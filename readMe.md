@@ -10,7 +10,7 @@ printSheets = These files are for printing stickers to place ontop of the keycap
 
 HIDMacros = This app allows the better management of second keyboards on windows. For more info: http://www.hidmacros.eu/whatisit.php
 
-AutoHotKey (AHK) = This can be used to write more complex scripts for macros. For example, I use it for keeping an application window ontop of another application window      without it automaticaly minimising the window that is not in use qhwn clicking on the other window.
+AutoHotKey (AHK) = This can be used to write more complex scripts for macros. For example, I use it for keeping an application window ontop of another application window      without it automaticaly minimising the window that is not in use when clicking on the other window.
 
 LuaMacros = This is the main app that runs the scripts used to create the macros.
 
